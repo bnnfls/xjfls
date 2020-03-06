@@ -1,4 +1,4 @@
-if (domains = 'undefined') {
+if (domains == 'undefined') {
     domains = [];
 }
 
